@@ -1,10 +1,10 @@
 # Haskell
 # ignore all
 #*/
-#*
+**
 #!*.*
-#!*/
-#!/*/*.hs
+!*/
+!/*.hs
 # allow any
 #!*/*.hs
 
