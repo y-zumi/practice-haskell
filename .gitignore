@@ -1,0 +1,10 @@
+# Haskell
+# ignore all
+#*/
+#*
+#!*.*
+#!*/
+#!/*/*.hs
+# allow any
+#!*/*.hs
+
