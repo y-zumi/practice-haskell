@@ -1,3 +1,4 @@
+-- 関数型は全ての関数が何らかの値を返すため，else句を必ず持たせなければならない．
 doubleSmallNumber x =
     if x > 100
         then x
