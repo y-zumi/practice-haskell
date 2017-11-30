@@ -8,4 +8,4 @@ perseptron x1 x2 yt w1 w2 w3 p = nw1
 
 main = do
     print('s')
-    perseptron 0.0 0.0 0.0 0.5 -1.0 0.1 0.1 0.0
+    perseptron 0.0 0.0 0.0 0.5 -1.0 0.1 0.1
